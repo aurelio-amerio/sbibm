@@ -44,7 +44,7 @@ dependencies = [
     "sbi>=0.20.0",
     "pyro-ppl",
     "scikit-learn",
-    "torch>=2.5.0",
+    "torch>=2.5.0, <2.6.0",
     "tqdm",
 ]
 
